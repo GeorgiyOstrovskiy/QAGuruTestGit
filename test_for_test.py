@@ -1,6 +1,7 @@
 
 def test_1():
     assert 1 < 6
+    assert 6 > 1
 
 
 def test_2():
